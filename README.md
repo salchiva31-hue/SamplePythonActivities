@@ -1,5 +1,4 @@
 # Distance Calculator
-### A Simple Python Program to Compute 2D Distance
 
 
 ---
